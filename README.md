@@ -1,4 +1,4 @@
-![Profile Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmo1ZDVzMHY1ZHBhemE1bmNyZnE1Zmgya2ViM2tkcmlsZWZnb3RraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif)
+![Profile Banner]
 <h1 align="center">Hi 👋, I'm hamza mraizik</h1>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/hmraizik" alt="hmraizik's 42 stats" /></a>
 <h3 align="center">A passionate developer from morocco</h3>
