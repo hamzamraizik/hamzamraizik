@@ -1,4 +1,4 @@
-![Profile Banner]
+
 <h1 align="center">Hi 👋, I'm hamza mraizik</h1>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/hmraizik" alt="hmraizik's 42 stats" /></a>
 <h3 align="center">A passionate developer from morocco</h3>
