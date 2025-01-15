@@ -1,12 +1,12 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
-<!--<a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+i'm+Hamza+Mraizik;software+engineering+Student" alt=" student"/>
-</a>-->
+</a>
 <p align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/hmraizik" alt="hmraizik's 42 stats" /></a>
-<h3 align="center">A passionate developer from morocco</h3>
+<!--<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/hmraizik" alt="hmraizik's 42 stats" /></a>
+<h3 align="center">A passionate developer from morocco</h3>-->
 
 <h2>- 📫 How to reach me</h2>
     <a href="https://www.linkedin.com/in/hamza-mraizik-6b4547294/">
