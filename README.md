@@ -19,4 +19,7 @@
 <p align="left">
 Linux is my primary development environment, and for good reason. Its open-source nature, powerful command-line interface, and extensive community support provide an unparalleled foundation for building and deploying software. 1  I leverage the flexibility of the Linux kernel and the vast ecosystem of open-source tools to create a highly customized and efficient development workflow.  
 </p>
+<div>
+  <img align="left" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg"/>
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
